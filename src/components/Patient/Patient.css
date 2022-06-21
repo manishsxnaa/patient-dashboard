@@ -1,0 +1,30 @@
+.container {
+
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.card {
+  padding: 5%;
+  width: 60%
+}
+
+.error { 
+  color: red
+}
+.margin-left{
+  margin-left: 5px;
+}
+.hide {
+  display: none;
+}
+.patient-form {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.label {
+  padding: 0 10px 0 10px;
+}

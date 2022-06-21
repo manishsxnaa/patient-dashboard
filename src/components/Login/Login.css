@@ -1,0 +1,17 @@
+body {
+    background-color: #FFFFFF;
+}
+
+.login {
+    margin-top: 200px;
+}
+
+p {
+    margin-left: 100px;
+    color: gray;
+    font-size: small;
+}
+
+.login_error { 
+    color: red
+}

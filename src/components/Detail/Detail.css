@@ -1,0 +1,40 @@
+.container-modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-shadow: 24;
+  padding: 10px;
+  border-radius: 5px
+}
+.layout {
+  display: flex;
+  justify-content: space-between;
+}
+.detail-modal {
+  display: flex;
+  margin-top: 15px;
+}
+.title-modal {
+  display: flex;
+  justify-content: space-between;
+  font-size:20px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+}
+.heading {
+  font-weight: 600;
+  font-size: 12;
+}
+.heading-content {
+  padding-left: 5px;
+  font-weight: 400;
+  font-size: 12;
+}
+.cross {
+  cursor: pointer;
+}
